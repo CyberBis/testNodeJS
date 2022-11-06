@@ -7,4 +7,6 @@ const calculateBonus = (a, b) => {
   return bonus; // Возвращаем значение перменной bonus
 };
 
-console.log(calculateBonus(35, 20));
+//console.log(calculateBonus(35, 20));
+
+module.exports = calculateBonus;
