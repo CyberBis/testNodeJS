@@ -1,0 +1,26 @@
+{
+  "name": "testsession",
+  "version": "1.0.0",
+  "description": "project for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberBis/testNodeJS.git"
+  },
+  "keywords": [
+    "test",
+    "js"
+  ],
+  "author": "Stefan Kazantsev <tefka10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberBis/testNodeJS/issues"
+  },
+  "homepage": "https://github.com/CyberBis/testNodeJS#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
