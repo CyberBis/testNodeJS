@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/CyberBis/testNodeJS#readme",
   "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
     "jest": "^29.2.2"
   }
 }
