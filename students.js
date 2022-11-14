@@ -39,4 +39,6 @@ let filterStudents = arrStudents.sort((a, b) => {
 
 let firstStudent = filterStudents.reverse().pop();
 
-console.log(firstStudent);
+console.log(
+  `Congratulations on the highest score and thank you for the fastest delivery of homework ${firstStudent.name}`
+);
